@@ -12,7 +12,7 @@ Em agosto de 2023 eu consegui bolsa integral para estudar no curso de engenaria 
 
 Estou em busca de uma nova oportunidade na área de T.I. (^_^)
 
-Que tal batermos um papo? Sinta-se à vontade para me contatar pelo Linkedin [/in/fesiq](https://www.linkedin.com/in/fesiq/).
+Que tal batermos um papo? Sinta-se à vontade para me contatar pelo Linkedin ***[/in/fesiq](https://www.linkedin.com/in/fesiq/)***.
 
 > Caso encontre um erro aqui, peço que reporte através do meu LinkedIn.
 
