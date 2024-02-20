@@ -2,7 +2,7 @@
 
 ### Me chamo **Fernando**, tenho 25 anos e sou estudante do curso de engenharia de software na _PUC Minas_.
 
-Tenho experiência profissional em diversas áreas, em especial na área financeira e de faturamento e, na pandemia de COVID-19, tomei a decisão de ir para a área de Tecnologia da Informação. Ali criei meu perfil no GitHub e fiz alguns cursos com alguns projetos para praticar, que estão publicados [aqui no meu perfil do Github](https://github.com/fesiq?tab=repositories).
+Tenho experiência profissional em diversas áreas, em especial na área financeira e de faturamento e, na pandemia de COVID-19, tomei a decisão de ir para a área de Tecnologia da Informação. Ali criei meu perfil no GitHub e fiz alguns cursos com alguns projetos para praticar, que estão publicados [aqui no meu perfil do Github](https://github.com/fesiq?tab=repositories) .
 
 *Mas alguns problemas pessoais e o desemprego formal fizeram com que eu tivesse cada vez menos tempo investido nessa mudança de carreira...*
 
