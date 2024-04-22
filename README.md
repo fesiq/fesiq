@@ -4,8 +4,6 @@
 
 Tenho experiência profissional em diversas áreas, em especial na área financeira e de faturamento e, na pandemia de COVID-19, tomei a decisão de ir para a área de Tecnologia da Informação. Ali criei meu perfil no GitHub e fiz alguns cursos com alguns projetos para praticar, que estão publicados [aqui no meu perfil do Github](https://github.com/fesiq?tab=repositories) .
 
-*Mas alguns problemas pessoais e o desemprego formal fizeram com que eu tivesse cada vez menos tempo investido nessa mudança de carreira...*
-
 De lá pra cá, obtive em 2021 uma bolsa integral para cursar Análise de Sistemas no Centro Universitário Una, e em 2022 a oportunidade de estagiar no setor de suporte e infra de T.I. de uma empresa no ramo de engenharia e construção B2B. 
 
 Em agosto de 2023 eu consegui bolsa integral para estudar no curso de engenaria de software, e então, meu contrato de estágio precisou ser encerrado devido à mudança de instituição.
