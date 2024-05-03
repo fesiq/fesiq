@@ -7,6 +7,4 @@ Tenho experiência profissional em diversas áreas, em especial na área finance
 
 Que tal batermos um papo? Sinta-se à vontade para me contatar pelo Linkedin ***[/in/fesiq](https://www.linkedin.com/in/fesiq/)***.
 
-> Caso encontre um erro aqui, peço que reporte através do meu LinkedIn.
-
 > <sub> Para construir este README, usei o site [Markdown Guide](https://www.markdownguide.org/basic-syntax/) como principal fonte de consulta, e os sites [W3Schools](https://www.w3schools.io/file/markdown-introduction/) e [Sintaxe básica de gravação e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).<sub>
