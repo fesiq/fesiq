@@ -13,5 +13,3 @@ Comecei fazendo cursos online e, em 2021 me matriculei no curso de Analise de Si
 Meu perfil no GitHub: ***[github.com/fesiq](https://github.com/fesiq?tab=repositories)***.
 
 Meu perfil no Linkedin: ***[linkedin.com/in/fesiq](https://www.linkedin.com/in/fesiq/)***.
-
-> <sub> Para construir este README, usei o site [Markdown Guide](https://www.markdownguide.org/basic-syntax/) como principal fonte de consulta, e os sites [W3Schools](https://www.w3schools.io/file/markdown-introduction/) e [Sintaxe básica de gravação e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).<sub>
