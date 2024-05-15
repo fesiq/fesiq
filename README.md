@@ -4,7 +4,7 @@
 
 Sou estudante da área de Tecnologia da Informação, sempre em busca de conhecimento.
 
-Tenho experiência profissional em diversas áreas, especialmente financeira e de faturamento e, na pandemia de COVID-19, me interessei por Tecnologia da Informação.
+Experiente em diversas áreas, especialmente financeira e de faturamento, na pandemia de COVID-19 me interessei por Tecnologia da Informação.
 
 Comecei fazendo cursos online e, em 2021 me matriculei no curso de Analise de Sistemas. Atualmente, curso Engenharia de Software.
 
