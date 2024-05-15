@@ -1,6 +1,6 @@
 # Fernando Siqueira
 
-## Sobre mim
+## ℹ Sobre mim
 
 Sou estudante da área de Tecnologia da Informação, sempre em busca de conhecimento.
 
@@ -8,7 +8,7 @@ Tenho experiência profissional em diversas áreas, especialmente financeira e d
 
 Comecei fazendo cursos online e, em 2021 me matriculei no curso de Analise de Sistemas. Atualmente, curso Engenharia de Software.
 
-## Contato
+## 📞 Contato
 
 Meu perfil no GitHub: ***[github.com/fesiq](https://github.com/fesiq?tab=repositories)***.
 
