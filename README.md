@@ -4,11 +4,7 @@
 
 Sou estudante da área de Tecnologia da Informação, sempre em busca de conhecimento.
 
-Experiente em diversas áreas, especialmente financeira e de faturamento, na pandemia de COVID-19 me interessei por Tecnologia da Informação.
-
-Comecei fazendo cursos online e, em 2021 me matriculei no curso de Analise de Sistemas. Atualmente, curso Engenharia de Software.
-
-## 📞 Contato
+Comecei fazendo cursos online e, em 2021 me matriculei no curso de Analise de Sistemas e em 2023, no curso Engenharia de Software.
 
 Meu perfil no GitHub: ***[github.com/fesiq](https://github.com/fesiq?tab=repositories)***.
 
