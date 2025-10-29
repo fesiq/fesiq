@@ -10,6 +10,6 @@ Meu perfil no GitHub: ***[github.com/fesiq](https://github.com/fesiq?tab=reposit
 
 Meu perfil no Linkedin: ***[linkedin.com/in/fesiq](https://www.linkedin.com/in/fesiq/)***.
 
-## Página em construção ⚠🏗
+## ⚠ Página em construção 🏗
 
 Em breve adicionarei a esta página uma forma simplificada de navegar pelos meus projetos. Por enquanto, por favor, sinta se a vontade para visualizá-los pela aba "Repositories" (ou "Repositórios") desta página.
